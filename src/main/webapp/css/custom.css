@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/08/2018, 10:18:13 PM
+    Author     : wilme
+*/
+
+.ui-tabview .ui-tabview-panel {
+    padding: 0px !important;
+}
+
+.ui-tabs .ui-tabs-panel{
+    padding: 0 !important;
+}
